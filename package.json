@@ -1,8 +1,23 @@
 {
-  "name": "root",
-  "private": true,
-  "dependencies": {},
-  "devDependencies": {
+  "name": "ns-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukaixin-ns/ns-sdk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liukaixin-ns/ns-sdk/issues"
+  },
+  "homepage": "https://github.com/liukaixin-ns/ns-sdk#readme",
+  "dependencies": {
     "lerna": "^8.1.2"
   }
 }
