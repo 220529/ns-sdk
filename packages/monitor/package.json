@@ -1,5 +1,5 @@
 {
-  "name": "@ns-sdk/monitor",
+  "name": "@ns/monitor",
   "version": "0.0.1",
   "description": "埋点",
   "author": "liukaixin <15713857919@163.com>",
