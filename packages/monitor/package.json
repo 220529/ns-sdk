@@ -1,6 +1,6 @@
 {
   "name": "@ns-sdk/monitor",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "埋点",
   "author": "liukaixin <15713857919@163.com>",
   "homepage": "https://github.com/liukaixin-ns/ns-sdk/tree/main/packages/monitor#readme",
