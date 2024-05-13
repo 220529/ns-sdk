@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/liukaixin-ns/ns-sdk.git"
@@ -23,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/liukaixin-ns/ns-sdk/issues"
   },
-  "gitHead": "bce501a7a0465ca6180c9a245dbf5a42a978307b"
+  "gitHead": "99d6f7a938cdd69226f9f357ea0aeec8d7d8d8b9"
 }
