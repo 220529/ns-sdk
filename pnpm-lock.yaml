@@ -12,6 +12,8 @@ importers:
         specifier: ^8.1.2
         version: 8.1.2
 
+  packages/monitor: {}
+
 packages:
 
   /@babel/code-frame@7.24.2:
