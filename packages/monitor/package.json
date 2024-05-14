@@ -5,7 +5,7 @@
   "author": "liukaixin <15713857919@163.com>",
   "homepage": "https://github.com/liukaixin-ns/ns-sdk/tree/main/packages/monitor#readme",
   "license": "ISC",
-  "main": "lib/monitor.js",
+  "main": "src/index.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
