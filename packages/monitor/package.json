@@ -21,10 +21,21 @@
     "url": "git+https://github.com/liukaixin-ns/ns-sdk.git"
   },
   "scripts": {
+    "dev": "webpack serve --config webpack.dev.config.js",
+    "build": "webpack --config webpack.pro.config.js",
     "test": "node ./__tests__/monitor.test.js"
   },
   "bugs": {
     "url": "https://github.com/liukaixin-ns/ns-sdk/issues"
   },
-  "gitHead": "99d6f7a938cdd69226f9f357ea0aeec8d7d8d8b9"
+  "gitHead": "99d6f7a938cdd69226f9f357ea0aeec8d7d8d8b9",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.6.0",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.0.4"
+  },
+  "dependencies": {
+    "qs": "^6.12.1"
+  }
 }
